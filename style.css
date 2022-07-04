@@ -20,8 +20,9 @@ h3{
     font-size: 15px;
     color: rgb(4, 62, 62);
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 10%;
 }
 .halfwidth{
     width: 100%;
@@ -49,4 +50,30 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.orangii{
+    color: orange;
+}
+.expoclr{
+color: brown;
+}
+.expoitem{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px grey ;
+    border-radius: 10%;
+    border-left: 10px solid blueviolet;
+}
+.expo{
+    background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+}
+#red{
+    border-left: 10px solid red;
+}
+footer{
+    text-align: end;
 }
