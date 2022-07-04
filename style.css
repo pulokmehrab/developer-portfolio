@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 30px;
+    
+}
+h2{
+    font-size: 50px;
+    color: maroon;
+}
+.another{
+    color: orange;
+}
+.ekshathe{
+    color: maroon;
+}
+h3{
+    font-size: 15px;
+    color: rgb(4, 62, 62);
+}
+section{
+    display: flex;
+}
+.halfwidth{
+    width: 100%;
+    padding-left: 5%;
+   
+    
+}
+.halfwidth img{
+
+    width: 80%;
+}
+.opnbutton{
+    text-decoration-color: none;
+    background-color: rgb(243, 91, 49);
+    padding: 10px 40px;
+    border-radius: 5px ;
+    color: white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/top-banner.png) ;
+    background-repeat: no-repeat;
+}
